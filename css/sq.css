@@ -1,0 +1,18 @@
+.centerblock{ 
+    background-color: #002776; 
+    padding-top: 14px; 
+} 
+ 
+.squareGLD{ 
+    width: 10px; 
+    height: 10px; 
+    Background-color: #ffd700; 
+} 
+.squareGREEN{ 
+    width: 10px; 
+    height: 10px; 
+    Background-color: #009c3b; 
+} 
+#myCanvas{
+	background-color: #ffffff;
+}
